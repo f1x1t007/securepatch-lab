@@ -1,0 +1,1 @@
+"""SecurePatch Lab teaching package."""
